@@ -3,7 +3,7 @@ Interactive Power BI dashboard for analysing loan disbursement data.
 
 
 
-![Dashboard Overview](image/kpi.png)
+![Dashboard Overview](image/KPI.png)
 
 
 
